@@ -47,7 +47,7 @@ This page provides a structured table view of individual insurance policies with
 - Financial Auditing: Compare premiums vs coverage and claims.
 - Operational Insights: Identify trends in policy activity and claim outcomes.
 - 
-🛠️ Tools Used
+## 🛠️ Tools Used
 - Power BI Desktop
 - DAX for calculated columns and measures
 - Custom visuals for pie, bar, and line charts
