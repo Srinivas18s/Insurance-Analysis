@@ -19,21 +19,21 @@ This Power BI project presents a comprehensive insurance analytics dashboard dev
 - Life: ₹0.7M
 - Home: ₹0.6M
 
-- Pie Chart – Active vs Inactive Policies:
+## Pie Chart – Active vs Inactive Policies:
 - Active: 5.82K (58.13%)
 - Inactive: 4.19K (41.87%)
 - Bar Chart – Claims by Status:
 - Rejected: 4.4K
 - Settled: 3.4K
 - Pending: 2.3K
-- Line Chart – Claim Amount by Age Group:
+## Line Chart – Claim Amount by Age Group:
 - Adult: ₹8.8M
 - Elder: ₹6.4M
 - Young Adult: ₹1.7M
 
-- Table – Claim Status by Policy Type: Detailed breakdown of pending, rejected, and settled claim amounts across Auto, Health, Home, Life, and Travel policies.
+## Table – Claim Status by Policy Type: Detailed breakdown of pending, rejected, and settled claim amounts across Auto, Health, Home, Life, and Travel policies.
 
-📋 Page 2: Detailed Policy Data Table
+## 📋 Page 2: Detailed Policy Data Table
 This page provides a structured table view of individual insurance policies with the following fields:
 - PolicyNumber, CustomerID, ClaimNumber
 - Age, Gender, Classification (e.g., Elder, Adult, Young Adult)
@@ -41,7 +41,7 @@ This page provides a structured table view of individual insurance policies with
 - PolicyStartDate, PolicyEndDate
 - PolicyType, ClaimStatus, ClaimDate, ClaimAmount
 
-🔍 Use Cases
+## 🔍 Use Cases
 - Customer Profiling: Segment by age, gender, and policy type.
 - Claims Analysis: Track status and amounts across time and demographics.
 - Financial Auditing: Compare premiums vs coverage and claims.
